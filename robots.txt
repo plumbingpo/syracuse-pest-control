@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syracusepestcontrolco.com/sitemap.xml
